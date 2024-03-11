@@ -1,4 +1,6 @@
-
+.container {
+    margin-right: 15px;
+}
 
 #checkbox-menu {
     position: absolute;
@@ -19,7 +21,7 @@ label span {
     height: 4px;
     width: 100%;
     border-radius: 30px;
-    background: #f16234;
+    background: #64ffda;
     transition: 0.26s ease-in-out;
 }
 
